@@ -4,7 +4,7 @@
 <h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <h2>Uma aplicação web desenvolvida com HTML e CSS, projetada para oferecer uma experiência de compra intuitiva e responsiva tanto em PC quanto em dispositivos móveis.</h2>
 <br>
-<h2>Tecnologias utilizadas</h2>
+<h2>Tecnologias Utilizadas</h2>
 <br>
 - HTML
 - CSS
